@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://meng-chuan.github.io</id>
-    <title>那位大人</title>
-    <updated>2020-05-19T07:16:03.068Z</updated>
+    <title>追梦少年，川少</title>
+    <updated>2020-05-19T07:34:17.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://meng-chuan.github.io"/>
     <link rel="self" href="https://meng-chuan.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>一个神奇的网站</subtitle>
     <logo>https://meng-chuan.github.io/images/avatar.png</logo>
     <icon>https://meng-chuan.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 那位大人</rights>
+    <rights>All rights reserved 2020, 追梦少年，川少</rights>
     <entry>
         <title type="html"><![CDATA[欢迎来到我的主页]]></title>
         <id>https://meng-chuan.github.io/post/huan-ying-lai-dao-wo-de-zhu-ye/</id>
